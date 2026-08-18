@@ -20,7 +20,7 @@ On-device symptom-to-diagnosis Android prototype built as a solo summer project.
 
 This was a self-directed exploration of on-device ML. I taught myself Kotlin and Android
 development from scratch to complete the project end-to-end, then presented the prototype
-and slide deck at a Virginia Tech research symposium as a solo presenter.
+and slide deck at a George Mason research symposium as a solo presenter.
 
 ## Repository contents
 
